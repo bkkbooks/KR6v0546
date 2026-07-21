@@ -19,7 +19,7 @@ metadata:
     short: GA
 assets:
   parts:
-  - {seq: 0, filename: KR6v0546_000-GA.yaml, hash: 'sha256:ee781f8ae81594a1264129c4036a38c0e5a23311093c797e74024c21fe989db7'}
+  - {seq: 0, filename: KR6v0546_000-GA.yaml, hash: 'sha256:c9a9536752b3beb76234eca97fc22d2833fb29e91985901674ba5b5b268548a7'}
   - {seq: 1, filename: KR6v0546_001-GA.yaml, hash: 'sha256:aafd03a5cda660eabfc407be4678a3ba484226f47da5f23214e9786b33e4b460'}
   - {seq: 2, filename: KR6v0546_002-GA.yaml, hash: 'sha256:e243aaa407db0c7edecffb04be18dea9ef2ced9a5654f97f781486c0e5f890d8'}
   - {seq: 3, filename: KR6v0546_003-GA.yaml, hash: 'sha256:93a50b7d6dbb5537df3846c218ec6a7482799c410a1fed8b6defd436d3940da3'}
@@ -29,7 +29,7 @@ assets:
   - {seq: 7, filename: KR6v0546_007-GA.yaml, hash: 'sha256:69813369b471244f176df6120e9e4446ce2b106b19eaa26c619efd4c96935e0c'}
   - {seq: 8, filename: KR6v0546_008-GA.yaml, hash: 'sha256:9c21f467b50893695ba282b221bc0286c0d7435044af7ad5854b14934ba904df'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0546_000-GA.markers.yaml, hash: 'sha256:cca890ee49b3b3a85a282fd841e3d707b0702c9357e832b68db101d345196224'}
+  - {seq: 0, role: markers, filename: assets/KR6v0546_000-GA.markers.yaml, hash: 'sha256:c3957b28f285fc87c3c3c7f752dc4d155c84b4f3c0c053be5f3eaab1344297ed'}
   - {seq: 1, role: markers, filename: assets/KR6v0546_001-GA.markers.yaml, hash: 'sha256:b667f1a4e0cf71a2b7097993b94a316a025b9b7205fbe3f98177c78ba0583709'}
   - {seq: 2, role: markers, filename: assets/KR6v0546_002-GA.markers.yaml, hash: 'sha256:e41b4a9fe6e57cc0ca7992ca3d55cc82395a5b13980fa40addc76b635118890f'}
   - {seq: 3, role: markers, filename: assets/KR6v0546_003-GA.markers.yaml, hash: 'sha256:f8d28767a636db1e8d5e849cd8d87cbaa13adc1e7908eaada6604ee92956a1a3'}
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0546_GA_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 卷首
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0546_GA_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -63,7 +63,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0546_GA_000-mulu-3
     span:
-    - front
+    - body
     - 0
     - 0
   label: 重修流通序
@@ -73,7 +73,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0546_GA_000-mulu-4
     span:
-    - front
+    - body
     - 953
     - 953
   label: 重刻序
@@ -83,7 +83,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0546_GA_000-mulu-5
     span:
-    - front
+    - body
     - 1498
     - 1498
   label: 御製序
@@ -93,7 +93,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0546_GA_000-mulu-6
     span:
-    - front
+    - body
     - 1860
     - 1860
   label: 舊序
@@ -103,7 +103,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0546_GA_000-mulu-7
     span:
-    - front
+    - body
     - 2574
     - 2574
   label: 總目
@@ -113,7 +113,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0546_GA_000-mulu-8
     span:
-    - front
+    - body
     - 2702
     - 2702
   label: 文殊聖像
@@ -123,7 +123,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0546_GA_000-mulu-9
     span:
-    - front
+    - body
     - 2706
     - 2706
   label: 文殊菩薩像讃
@@ -133,7 +133,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0546_GA_000-mulu-10
     span:
-    - front
+    - body
     - 2832
     - 2832
   label: 五臺山圖
@@ -5399,4 +5399,4 @@ table_of_contents:
   label: 附錄：山堂法師念佛修心術
   type: mulu
   level: 1
-hash: sha256:3c78a9b318b246a0f91ce11fad115dcb3f9795ba35d4a46dd9b882ec4bc3c92c
+hash: sha256:7cd79f3a3f365d993b7cb3df489f21f18326c8d055106a06f3ea3f09283dab18
